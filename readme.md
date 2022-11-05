@@ -1,3 +1,14 @@
-<iframe width="864" height="486" src="https://www.youtube.com/embed/Tn6-PIqc4UM" title="React in 100 Seconds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# 10 Days Web Development Challenge
+
+## Topics
+
+### Day 1  - Introduction to Web Development<br>
+### Day 2 & 3 - HTML<br>
+### Day 4 & 5 - CSS<br>
+### Day 6 & 7 - Javascript<br>
+### Day 8  - Git<br>
+### Day 9 - GitHub<br>
+### Day 10 - Project
+
 
 
